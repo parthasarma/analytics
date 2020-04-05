@@ -1,6 +1,6 @@
 ## Welcome to Analytics Blog by Partha
 ### Steps for implementing Digital Analytics
-Details are in think [link](https://github.com/parthasarma/analytics/blob/master/analytics_implementation) 
+Details are in think [link](https://github.com/parthasarma/analytics/blob/master/analytics_implementation.html) 
 
 You can use the [editor on GitHub](https://github.com/parthasarma/analytics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
